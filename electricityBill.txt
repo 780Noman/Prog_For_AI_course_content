@@ -1,0 +1,45 @@
+************************************
+Customer name: Ahad
+Units Consumed: 560
+TV Fee: 55.0
+NJ Surcharge: 56.0
+FC Surcharge: 240.79999999999998
+Fuel Adjustment: 113.23199999999999
+Total GST: 2760.8
+Total Bill: 19465.832000000002
+************************************
+Customer name: Mustafa
+Units Consumed: 430
+TV Fee: 55.0
+NJ Surcharge: 43.0
+FC Surcharge: 184.9
+Fuel Adjustment: 86.946
+Total GST: 1973.6999999999998
+Total Bill: 13953.546
+************************************
+Customer name: Hassan
+Units Consumed: 34
+TV Fee: 55.0
+NJ Surcharge: 3.4000000000000004
+FC Surcharge: 14.620000000000001
+Fuel Adjustment: 6.8748000000000005
+Total GST: 75.14
+Total Bill: 597.0348
+************************************
+Customer name: fahad
+Units Consumed: 34
+TV Fee: 55.0
+NJ Surcharge: 3.4000000000000004
+FC Surcharge: 14.620000000000001
+Fuel Adjustment: 6.8748000000000005
+Total GST: 75.14
+Total Bill: 597.0348
+************************************
+Customer name: Murtaza
+Units Consumed: 568
+TV Fee: 55.0
+NJ Surcharge: 56.8
+FC Surcharge: 244.23999999999998
+Fuel Adjustment: 114.84959999999998
+Total GST: 2800.24
+Total Bill: 19743.1296
